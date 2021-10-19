@@ -1,0 +1,10 @@
+C:\Users\perfect\Desktop\AccountApp\obj\Debug\AccountApp.csproj.AssemblyReference.cache
+C:\Users\perfect\Desktop\AccountApp\obj\Debug\AccountsApp.frmAccount.resources
+C:\Users\perfect\Desktop\AccountApp\obj\Debug\AccountsApp.Properties.Resources.resources
+C:\Users\perfect\Desktop\AccountApp\obj\Debug\AccountApp.csproj.GenerateResource.cache
+C:\Users\perfect\Desktop\AccountApp\obj\Debug\AccountApp.csproj.CoreCompileInputs.cache
+C:\Users\perfect\Desktop\AccountApp\bin\Debug\AccountsApp.exe.config
+C:\Users\perfect\Desktop\AccountApp\bin\Debug\AccountsApp.exe
+C:\Users\perfect\Desktop\AccountApp\bin\Debug\AccountsApp.pdb
+C:\Users\perfect\Desktop\AccountApp\obj\Debug\AccountsApp.exe
+C:\Users\perfect\Desktop\AccountApp\obj\Debug\AccountsApp.pdb
